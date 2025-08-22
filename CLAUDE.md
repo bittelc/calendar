@@ -48,6 +48,7 @@ A better calendar application that inverts the traditional Google Calendar layou
 - Start with core calendar functionality
 - Add external sync integrations incrementally
 - Focus on the unique interface design as primary differentiator
+- **Test-Driven Development (TDD)**: All backend APIs must be developed using TDD methodology (Red-Green-Refactor cycle)
 
 ## Critical Design Questions to Resolve
 These are key decisions that need to be made before implementation:
