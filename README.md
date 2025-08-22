@@ -9,6 +9,7 @@ Cole Calendar reimagines the traditional calendar interface by inverting the sta
 ## Key Features
 
 - **Inverted Layout**: Unique time/day axis orientation for better user experience
+- **Attendee Management**: Rich invitation system with roles (organizer/required/optional), response tracking (accept/decline/tentative), invitation deadlines, and automatic decline for expired invitations
 - **Calendar Sync**: Pull events from Google Calendar, Proton Calendar, and other external sources
 - **Bidirectional Integration**: Push events back to external calendars when supported
 - **Web-Based**: Accessible through any modern web browser
