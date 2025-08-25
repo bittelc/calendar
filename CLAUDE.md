@@ -33,7 +33,13 @@ A better calendar application that inverts the traditional Google Calendar layou
    - Push events to external calendars when possible
    - Bidirectional sync where supported
 
-2. **Unique Interface**
+2. **Event Groups & Sharing**
+   - Group related events together (e.g., "Child's School Events", "Work Projects")
+   - Share entire groups with specific users with different permission levels (view/edit/admin)
+   - Multi-user collaboration on event groups with invitation system
+   - Events can belong to multiple groups simultaneously
+
+3. **Unique Interface**
    - Inverted time/day axis compared to traditional calendar views
    - Focus on improving user experience over existing calendar applications
 
@@ -48,7 +54,7 @@ A better calendar application that inverts the traditional Google Calendar layou
 - Start with core calendar functionality
 - Add external sync integrations incrementally
 - Focus on the unique interface design as primary differentiator
-- **Test-Driven Development (TDD)**: All backend APIs must be developed using TDD methodology (Red-Green-Refactor cycle)
+- Test-Driven Development (TDD): All backend APIs must be developed using TDD methodology (Red-Green-Refactor cycle)
 
 ## Critical Design Questions to Resolve
 These are key decisions that need to be made before implementation:
